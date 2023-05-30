@@ -69,8 +69,7 @@ function getData(eventObject) {
     let options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': '58b29117f6mshc96d6a4d19e7358p1d14b2jsnb3585bcc6217',
-        'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
+        
       }
     };
     
